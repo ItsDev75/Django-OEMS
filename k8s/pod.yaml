@@ -4,15 +4,15 @@ kind: Pod
 
 metadata:
 
-  name: ems
+  name: oems
 
 spec:
 
   containers:
 
-  - name: ems
+  - name: oems
 
-    image: amitchoudhary47/ems:latest
+    image: devsaini75/oems:v1
 
     ports:
 
